@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /dictionarycomiframe/
+Allow: /img/
+Disallow: /just-stupid-words/
+Disallow: /unlisted/
+Disallow: /.git/
